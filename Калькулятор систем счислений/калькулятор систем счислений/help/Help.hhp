@@ -1,0 +1,19 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Help.chm
+Contents file=Table of Contents.hhc
+Default topic=Index1.htm
+Display compile progress=No
+Language=0x419 Русский (Россия)
+
+
+[FILES]
+Index1.htm
+index2.htm
+Index3.htm
+Index4.htm
+Index5.htm
+Index6.htm
+
+[INFOTYPES]
+
